@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "25_HRS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 14.3 }, "geometry": { "type": "Point", "coordinates": [ -99.747632, 47.784491 ] } },
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 14.2 }, "geometry": { "type": "Point", "coordinates": [ -100.402081, 48.859374 ] } },
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 13.9 }, "geometry": { "type": "Point", "coordinates": [ -96.017896, 47.674802 ] } },
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 14.1 }, "geometry": { "type": "Point", "coordinates": [ -96.545854, 47.803238 ] } },
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 14.2 }, "geometry": { "type": "Point", "coordinates": [ -100.074722, 48.217824 ] } },
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 14.3 }, "geometry": { "type": "Point", "coordinates": [ -100.074722, 48.217824 ] } },
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 14.3 }, "geometry": { "type": "Point", "coordinates": [ -100.074722, 48.217824 ] } },
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 14.3 }, "geometry": { "type": "Point", "coordinates": [ -99.747632, 47.784491 ] } },
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 14.4 }, "geometry": { "type": "Point", "coordinates": [ -98.691164, 45.150206 ] } }
+]
+}
